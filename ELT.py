@@ -25,7 +25,7 @@ file_path = './extracted/file.zip'
 
 # SEC headers Requirement: MUST DECLARE USER-AGENT
 # User-Agent: Sample Company Name AdminContact@<sample company domain>.com
-headers={"User-Agent": "Sri Venkatesh srivenkatesh1999@gmail.com"}
+headers={"User-Agent": "<enter-values-here>"}
 
 response = requests.get(url, headers = headers)
 if response.status_code == 200:
