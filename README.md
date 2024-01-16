@@ -10,4 +10,8 @@ Extract, Load and Transformation of SEC financial Dataset
 
 *note: creates additional folder in current dir to store and extract the zip file*
 
-
+#### Next Steps: **(In progress)**
+-    Remove unwanted columns
+-    Change Datatypes
+-    Create and Implement Views
+-    ....
